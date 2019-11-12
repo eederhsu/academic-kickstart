@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yi-Te (Eeder) Hsu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master's student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Johns Hopkins University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include developing AI and machine learning techniques to provide better healthcare system.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Speech and Voice technology
+- Bio-acoustic Signal Processing
+- Healthcare
+- Natural Language Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Computer Science
+    institution: Johns Hopkins University
+    year: 2019-
+  - course: Visiting Student Researcher
+    institution: University of Toronto
+    year: 2018
+  - course: BSc in Electrical Engineering
+    institution: National Taiwan University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +45,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:eederhsu@gmail.com".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=jNPGEnIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/eederhsu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yitehsu/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +74,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am **Yi-Te Hsu**, an M.S. Computer Science student at Johns Hopkins University. Previously, I was a visiting student researcher at [University of Toronto (UofT)](https://www.utoronto.ca/) and at [Vector Institute](https://vectorinstitute.ai/), and research assistant at [Academia Sinica](https://www.sinica.edu.tw/en). 
+I worked on detecting pathological voice and identifying Alzheimer’s disease with [Prof. Frank Rudzicz](http://www.cs.toronto.edu/~frank/index.html) at UofT and Vector Institute. Besides, in order to deploy AI and deep learning models to wearable devices, I also work on the compression and acceleration of deep neural networks with [Dr. Yu Tsao](https://www.citi.sinica.edu.tw/pages/yu.tsao/index_en.html) at Academia Sinica.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am extremely interested in developing AI and machine learning techniques to provide better healthcare system.
+
+*I am looking for 2020 summer internships!*

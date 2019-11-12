@@ -75,9 +75,13 @@ user_groups:
 - Visitors
 ---
 
-I am **Yi-Te Hsu**, an M.S. Computer Science student at Johns Hopkins University. Previously, I was a visiting student researcher at [University of Toronto (UofT)](https://www.utoronto.ca/) and at [Vector Institute](https://vectorinstitute.ai/), and research assistant at [Academia Sinica](https://www.sinica.edu.tw/en). 
-I worked on detecting pathological voice and identifying Alzheimer’s disease with [Prof. Frank Rudzicz](http://www.cs.toronto.edu/~frank/index.html) at UofT and Vector Institute. Besides, in order to deploy AI and deep learning models to wearable devices, I also worked on the compression and acceleration of deep neural networks with [Dr. Yu Tsao](https://www.citi.sinica.edu.tw/pages/yu.tsao/index_en.html) at Academia Sinica.
+I am **Yi-Te Hsu**, currently an M.S. Computer Science student at [Johns Hopkins University](https://www.jhu.edu/). 
+Before coming to JHU, I was a research assistant at [Academia Sinica](https://www.sinica.edu.tw/en) conducting research on speech processing with [Dr. Yu Tsao](https://www.citi.sinica.edu.tw/pages/yu.tsao/index_en.html). I mainly focused on model compression and acceleration for deep neural networks. 
 
-I am extremely interested in applying speech processing, AI, ML techniques to solving the real-world problems.
+I also collaborated with [Prof. Frank Rudzicz](http://www.cs.toronto.edu/~frank/index.html) at [University of Toronto (UofT)](https://www.utoronto.ca/) and [Vector Institute](https://vectorinstitute.ai/) as a visiting researcher. I worked on healthcare projects for detecting pathological voice and identifying Alzheimer’s disease. 
+
+My interests include speech processing, AI and ML. I am excited about applying these techniques to solving the real-world problems.
+
+
 
 *I am looking for 2020 summer internships!*

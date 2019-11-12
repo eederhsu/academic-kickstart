@@ -40,7 +40,6 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2018-12-15"
   description = """
-  Responsibilities include:
   
   * Healthcare Project – Robust pathological voice detection system: Used bidirectional LSTM to develop an early detection system. Combined with an unsupervised domain adaptation method to solve the channel mismatch of different devices.
   * NLP Project – Detection of Alzheimer’s disease: Proposed a method to transfer Mandarin features to English ones with the corpus of a picture description task. Combined algorithms from different languages to achieves multi-language application.
@@ -53,7 +52,6 @@ date_format = "Jan 2006"
   date_start = "2016-06-01"
   date_end = "2017-02-28"
   description = """
-  Responsibilities include:
   
   * Applied ML techniques and statistic model to extract core information from different types of IoT data. Applied unsupervised machine learning methods to detect anomalies with unlabeled data
   * Predicted the office space occupancy rate for 85% accuracy with the time-series data for 6 months from real-time sensors.

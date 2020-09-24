@@ -84,4 +84,4 @@ My interests include speech processing, AI and ML. I am excited about applying t
 
 
 
-*I am looking for 2020 summer internships!*
+*I am looking for 2021 full-time opportunities!*
